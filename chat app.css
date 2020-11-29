@@ -1,0 +1,206 @@
+
+body{
+    background-color:black;
+    font-family:'Open Sans',serif;
+}
+
+* {
+    margin:0; padding:0;
+}
+body{
+    background-color:;
+    color:;
+}
+ul li{
+    list-style-type:none;
+    display:inline-block ;
+    margin:18px;
+    font-size:20px;
+    color:white;
+    font-family:'Goldman',cursive;
+}
+ul li:hover{
+    border-bottom:2px solid white;
+}
+nav{
+    background-image:linear-gradient(to right,#7b4397,#dc2430);
+}
+
+.search {
+  position:relative;
+  border-radius:10px;
+  height:35px;
+  width:400px;
+  font-family:'Goldman',cursive;
+  border:3px solid steelblue;
+}
+#chat div{
+    border:none;
+    margin:20px;
+    color:white;
+    
+}
+#chat div:hover{
+    opacity:0.7;
+}
+#lordofthunder{
+    border:1px solid black;
+    height:50px;
+    
+}
+#lord{
+    text-align:left;
+    vertical-align:text-top;
+    margin-left:70px;
+    
+}
+#thunder{
+    text-align:left;
+    vertical-align:text-bottom;
+    margin-left:70px;
+}
+#ayush{
+    border:1px solid black;
+    height:50px;
+}
+#ay{
+    text-align:left;
+    vertical-align:text-top;
+    margin-left:70px;
+    
+    
+}
+#amcoder{
+    border:1px solid black;
+    height:50px;
+}
+#am{
+    text-align:left;
+    vertical-align:text-top;
+    margin-left:70px;
+    }
+#ush{
+    text-align:left;
+    vertical-align:text-bottom;
+    margin-left:70px;
+    
+}
+img{
+    position:absolute;
+    
+    width:50px; height:50px; 
+    border-radius:50%;
+}
+#ashwinmaurya{
+    border:1px solid black;
+    height:50px;
+}
+#ashwin{
+    text-align:left;
+    vertical-align:text-top;
+    margin-left:70px;
+}
+#maurya{
+    text-align:left;
+    vertical-align:text-bottom;
+    margin-left:70px;
+}
+#akaansha{
+    border:1px solid black;
+    height:50px;
+}
+#akaan{
+    text-align:left;
+    vertical-align:text-top;
+    margin-left:70px;
+}
+#sha{
+    text-align:left;
+    vertical-align:text-bottom;
+    margin-left:70px;
+}
+#arnavkumar{
+    
+    border:1px solid black;
+    height:50px;
+    
+}
+#arnav{
+    
+    text-align:left;
+    vertical-align:text-top;
+    margin-left:70px;
+}
+#kumar{
+    text-align:left;
+    vertical-align:text-bottom;
+    margin-left:70px;
+}
+#unknown{
+    
+    border:1px solid black;
+    height:50px;
+}
+#un{
+    text-align:left;
+    vertical-align:text-top;
+    margin-left:70px;
+}
+#known{
+    
+    text-align:left;
+    vertical-align:text-bottom;
+    margin-left:70px;
+    
+    
+}
+#coder{
+    
+    text-align:left;
+    vertical-align:text-bottom;
+    margin-left:70px;
+    
+}
+#programmer{
+    border:1px solid black;
+    height:50px;
+    
+}
+#pro{
+    text-align:left;
+    vertical-align:text-top;
+    margin-left:70px;
+}
+#grammer{
+    text-align:left;
+    vertical-align:text-bottom;
+    margin-left:70px;
+    
+}
+#newChat button{
+    border-radius:100%;
+    width:50px;
+    height:50px;
+    float:right;
+    margin-right:3vw;
+    margin-top:-7vw;
+    display:flex;
+   justify-content:center;
+    align-items:center;
+    background-color:orange;
+    border:none;
+    color:white;
+}
+#newChat button:hover{
+    background-color:#dc2430;
+}
+
+.fa-pencil{
+    transform:scale(1.5);
+}
+input:focus{
+  outline:none;  
+}
+button:focus{
+  outline:none;  
+}
